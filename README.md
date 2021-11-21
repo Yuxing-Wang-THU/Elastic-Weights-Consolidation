@@ -3,7 +3,7 @@ Pytorch Implementations of EWC and "Online" EWC
 
 DeepMind's paper [Overcoming Catastrophic Forgetting, PNAS 2017](https://arxiv.org/abs/1612.00796).
 
-## Usage
+## Usage (need to run on the linux platform)
 
 ### 1. Install Visdom 
 
