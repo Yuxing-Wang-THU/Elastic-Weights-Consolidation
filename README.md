@@ -1,2 +1,8 @@
 # EWC
-An implementation of Elastic Weight Consolidation (EWC), proposed in James Kirkpatrick et al. Overcoming catastrophic forgetting in neural networks 2016(10.1073/pnas.1611835114).
+Pytorch Implementations of EWC and online EWC
+
+DeepMind's paper [Overcoming Catastrophic Forgetting, PNAS 2017](https://arxiv.org/abs/1612.00796).
+
+References (Thanks!):
+https://github.com/kuc2477/pytorch-ewc
+https://github.com/ruinanzhang/Rotated_MNIST_Continual_Learning
