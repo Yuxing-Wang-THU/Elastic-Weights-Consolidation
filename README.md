@@ -15,18 +15,23 @@ Enter 'visdom' in the command line
 
 ### 3. Run main.py
 
-#### 1. No EWC
+#### Without EWC
 
-python main.py                            # no ewc
+python main.py 
 
-python main.py --consolidate              # ewc
+#### EWC
 
-python main.py --consolidate --online     # "Online" ewc
+python main.py --consolidate 
+
+#### "Online" EWC
+
+python main.py --consolidate --online     
 
 
 ## Result
 
 ### 1. Online EWC
+
 
 
 
