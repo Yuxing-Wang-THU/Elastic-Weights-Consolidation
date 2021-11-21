@@ -32,7 +32,7 @@ python main.py --consolidate --online
 
 ### 1. Online EWC
 
-
+./result/online-ewc.png
 
 
 ## References (Thanks!):
