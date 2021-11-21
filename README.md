@@ -32,8 +32,10 @@ python main.py --consolidate --online
 
 ### 1. Online EWC
 
-./result/online-ewc.png
+![image](https://github.com/Yuxing-Wang-THU/EWC/result/online-ewc.png)
 
+
+![image](https://github.com/Yuxing-Wang-THU/EWC/result/online-ewc-loss.png)
 
 ## References (Thanks!):
 
