@@ -30,12 +30,12 @@ python main.py --consolidate --online
 
 ## Result
 
-### 1. Online EWC
+### Online EWC (6 tasks)
 
-![image](https://github.com/Yuxing-Wang-THU/EWC/result/online-ewc.png)
+![image](https://github.com/Yuxing-Wang-THU/EWC/tree/main/result/online-ewc.png)
 
 
-![image](https://github.com/Yuxing-Wang-THU/EWC/result/online-ewc-loss.png)
+![image](https://github.com/Yuxing-Wang-THU/EWC/tree/main/result/online-ewc-loss.png)
 
 ## References (Thanks!):
 
