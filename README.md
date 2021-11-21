@@ -1,5 +1,5 @@
 # EWC
-Pytorch Implementations of EWC and online EWC
+Pytorch Implementations of EWC and "Online" EWC
 
 DeepMind's paper [Overcoming Catastrophic Forgetting, PNAS 2017](https://arxiv.org/abs/1612.00796).
 
@@ -14,6 +14,8 @@ pip install visdom
 Enter 'visdom' in the command line
 
 ### 3. Run main.py
+
+#### 1. No EWC
 
 python main.py                            # no ewc
 
