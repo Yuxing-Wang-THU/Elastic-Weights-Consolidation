@@ -1,5 +1,5 @@
 # EWC
-Pytorch implementations of EWC and "Online" EWC.
+Pytorch implementations of Elastic Weights Consolidation (EWC) and "Online" EWC.
 
 ## Usage (needs to run on the linux platform)
 
