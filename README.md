@@ -32,10 +32,10 @@ python main.py --consolidate --online
 
 ### Online EWC (6 tasks)
 
-![image](https://github.com/Yuxing-Wang-THU/EWC/tree/main/result/online-ewc.png)
+![image](https://github.com/Yuxing-Wang-THU/EWC/blob/main/result/online-ewc.png)
 
 
-![image](https://github.com/Yuxing-Wang-THU/EWC/tree/main/result/online-ewc-loss.png)
+![image](https://github.com/Yuxing-Wang-THU/EWC/blob/main/result/online-ewc-loss.png)
 
 ## References (Thanks!):
 
