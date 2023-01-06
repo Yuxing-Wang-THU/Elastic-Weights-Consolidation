@@ -1,39 +1,49 @@
 # EWC
-Pytorch Implementations of EWC and "Online" EWC
-
-DeepMind's paper [Overcoming Catastrophic Forgetting, PNAS 2017](https://arxiv.org/abs/1612.00796).
+Pytorch implementations of EWC and "Online" EWC.
 
 ## Usage (needs to run on the linux platform)
 
 ### 1. Install Visdom 
 
+```python
 pip install visdom
+```
 
 ### 2. Run Visdom 
 
+```python
 Enter 'visdom' in the command line
+```
 
 ### 3. Run main.py
 
 #### Without EWC
 
-python main.py 
+```python
+python main.py
+```
 
 #### EWC
 
+```python
 python main.py --consolidate 
+```
 
 #### "Online" EWC
 
+```python
 python main.py --consolidate --online     
+```
 
+## Results
 
-## Result
+### Online EWC
 
-### Online EWC (6 tasks)
+Performance
 
 ![image](https://github.com/Yuxing-Wang-THU/EWC/blob/main/result/online-ewc.png)
 
+Loss
 
 ![image](https://github.com/Yuxing-Wang-THU/EWC/blob/main/result/online-ewc-loss.png)
 
@@ -42,3 +52,5 @@ python main.py --consolidate --online
 https://github.com/kuc2477/pytorch-ewc
 
 https://github.com/ruinanzhang/Rotated_MNIST_Continual_Learning
+
+DeepMind's paper [Overcoming Catastrophic Forgetting, PNAS 2017](https://arxiv.org/abs/1612.00796).
