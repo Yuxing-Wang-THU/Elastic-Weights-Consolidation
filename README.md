@@ -37,7 +37,7 @@ python main.py --consolidate --online
 
 ![image](https://github.com/Yuxing-Wang-THU/EWC/blob/main/result/online-ewc-loss.png)
 
-## References (Thanks!):
+## Reference
 
 https://github.com/kuc2477/pytorch-ewc
 
